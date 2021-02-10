@@ -22,4 +22,7 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaT1g3R&count_private=true&theme=tokyonight&layout=compact&langs_count=7)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
