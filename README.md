@@ -1,6 +1,6 @@
 # Hi there 👋
-[<img alt="GitLab" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg"/>](https://gitlab.otonokizaka.moe/Umi)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/peijun-ma)
+[<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.otonokizaka.moe/Umi)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/peijun-ma)
 
 I'm a software developer/SRE with a passion for functional programming and Kubernetes.
 I currently work at [Garner](https://garnercorp.com).
