@@ -23,6 +23,9 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust       1 hr 51 mins    ████████████████▒░░░░░░░░   65.45 % 
+Markdown   45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.65 % 
+Vue.js     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
