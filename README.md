@@ -23,9 +23,9 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Python     6 hrs 35 mins   ████████████████░░░░░░░░░   63.81 % 
-Markdown   3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 % 
-Other      12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown   5 hrs 28 mins   ████████████▓░░░░░░░░░░░░   50.39 % 
+Python     5 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.84 % 
+Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
