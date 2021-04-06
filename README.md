@@ -23,10 +23,10 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 13 mins   ███████████████░░░░░░░░░░   60.30 % 
-Markdown     1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.53 % 
-Go           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-TypeScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-BNF          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Python       5 hrs 38 mins   ██████████████████░░░░░░░   72.03 % 
+Markdown     1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Go           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+BNF          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
