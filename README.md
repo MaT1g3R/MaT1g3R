@@ -23,7 +23,8 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 52 mins    ██████████████░░░░░░░░░░░   55.40 % 
-Go         1 hr 30 mins    ███████████░░░░░░░░░░░░░░   44.60 % 
+Go         2 hrs 22 mins   ██████████████░░░░░░░░░░░   55.42 % 
+Markdown   1 hr 52 mins    ███████████░░░░░░░░░░░░░░   43.80 % 
+HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
