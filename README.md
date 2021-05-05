@@ -2,8 +2,8 @@
 [<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.otonokizaka.moe/Umi)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/peijun-ma)
 
-I'm a software developer/SRE with a passion for functional programming and Kubernetes.
-I currently work at [Garner](https://garnercorp.com).
+I'm a Software Engineer/SRE with a passion for functional programming and Kubernetes.
+I currently work at [CircleCI](https://circleci.com/).
 
 My preferred contact method is [matrix](https://matrix.org),
 you can reach me at [`@umi:matrix.otonokizaka.moe`](https://matrix.to/#/@umi:matrix.otonokizaka.moe).
