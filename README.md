@@ -23,6 +23,6 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
