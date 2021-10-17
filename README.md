@@ -23,8 +23,8 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Other        16 hrs 35 mins  █████████████████████░░░░   83.80 % 
-TypeScript   3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other        19 hrs 20 mins  ██████████████████████▒░░   89.46 % 
+TypeScript   2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
