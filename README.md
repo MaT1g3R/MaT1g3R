@@ -23,10 +23,10 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Other      5 hrs 39 mins   █████████████▓░░░░░░░░░░░   54.23 % 
-Go         2 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
-YAML       1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Markdown   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-SQL        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Go         6 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   43.33 % 
+Other      6 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.95 % 
+YAML       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Markdown   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+SQL        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
