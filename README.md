@@ -23,9 +23,9 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Go          7 hrs 17 mins   █████████████░░░░░░░░░░░░   51.67 % 
-Other       6 hrs           ██████████▓░░░░░░░░░░░░░░   42.53 % 
-Terraform   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Markdown    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go          6 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.28 % 
+Other       6 hrs           ███████████▒░░░░░░░░░░░░░   45.59 % 
+Terraform   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
