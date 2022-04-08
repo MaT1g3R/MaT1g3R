@@ -23,10 +23,10 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Other       8 hrs 41 mins   ██████████████▓░░░░░░░░░░   58.65 % 
-YAML        2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Terraform   2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-TOML        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Python      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other       7 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.55 % 
+YAML        2 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Terraform   2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Go          1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Makefile    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
