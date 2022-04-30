@@ -23,8 +23,8 @@ I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also in
 
 <!--START_SECTION:waka-->
 ```text
-Go             11 hrs 36 mins  ███████████████████▓░░░░░   78.13 % 
-Other          3 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
-YAML           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Go             9 hrs 11 mins   █████████████████▒░░░░░░░   69.67 % 
+Other          3 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 % 
+YAML           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
