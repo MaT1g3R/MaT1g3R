@@ -19,7 +19,9 @@ I mostly follow [this technique](https://www.youtube.com/watch?v=j6VlT_jUVPc)
 ### Cafe Du Chateau French Press
 
 Cheap french press off Amazon.
-Can't recall what it tasted like, but shatters very easily. The mesh is annoying to clean.
+Shatters very easily. The mesh is annoying to clean.
+
+I mostly follow [this technique](https://www.youtube.com/watch?v=st571DYYTR8)
 
 ### Philips 3200 Series
 
