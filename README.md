@@ -15,6 +15,8 @@ My personal website is at: [https://peijun.dev](https://peijun.dev)
 Beside programming, I also like watching anime, reading manga/LNs in my free time.
 I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also into that sort of things.
 
+I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./coffee.md).
+
 ## Stats
 
 ![MaT1g3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaT1g3R&count_private=true&show_icons=true&theme=tokyonight)
