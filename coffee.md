@@ -42,6 +42,15 @@ Steep for 2 minutes, then gentelly swirl and press.
 - Filter: Generic paper filter
 - Comment: Not very bitter and there's a small hint of acidity coming though. The coffee is skily smooth and very pleasant to drink, but I would not describe it as very rich or full bodied.
 
+#### French Press
+
+Steep for 4 minutes, break and remove crust, steep for 5 minutes
+
+- Dosage: 60g/L
+- Grind Level: TIMEMORE C2 at 26
+- Water: Tap water at 100C
+- Comment: Somewhat bitter up front, but not unpleasant. Some muted acidity, but not very pronounced. Somewhat lacking in clarity in flavours but is very textured. Not bad, will probably try grinding finer or increasing the dosage.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
