@@ -48,10 +48,10 @@ Steep for 2 minutes, then gentelly swirl and press.
 
 Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
-- Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 26
+- Dosage: 65g/L
+- Grind Level: TIMEMORE C2 at 27
 - Water: Tap water at 100C
-- Comment: Somewhat bitter up front, but not unpleasant. Some muted acidity, but not very pronounced. Somewhat lacking in clarity in flavours but is very textured. Not bad, will probably try grinding finer or increasing the dosage.
+- Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a  satisfitying brew.
 
 ## Misc Info
 
