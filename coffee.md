@@ -39,8 +39,8 @@ The drip coffee it makes is very under extracted, and I wouldn't want to drink t
 Steep for 2 minutes, then gentelly swirl and press.
 
 - Dosage: 65g/L
-- Grind Level: TIMEMORE C2 at 18
-- Water: Tap water at 90C
+- Grind Level: TIMEMORE C2 at 17
+- Water: Brita filtered water at 90C
 - Filter: Generic paper filter
 - Comment: Not very bitter and there's a small hint of acidity coming though. The coffee is skily smooth and very pleasant to drink, but I would not describe it as very rich or full bodied.
 
@@ -50,7 +50,7 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 - Dosage: 65g/L
 - Grind Level: TIMEMORE C2 at 27
-- Water: Tap water at 100C
+- Water: Brita filtered water at 100C
 - Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a  satisfitying brew.
 
 ## Misc Info
