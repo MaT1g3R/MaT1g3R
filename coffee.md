@@ -70,3 +70,4 @@ Steep for 2 minutes, then gentelly swirl and press.
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
+- [The Coffee Compass](https://www.baristahustle.com/app-archive-main/the-coffee-compass/)
