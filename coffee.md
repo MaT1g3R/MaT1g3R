@@ -53,6 +53,20 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 - Water: Brita filtered water at 100C
 - Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a  satisfitying brew.
 
+### Peru Nery Rioja
+
+<https://hellodemello.com/shop/peru-nery-rioja/ >
+
+#### AeroPress
+
+Steep for 2 minutes, then gentelly swirl and press.
+
+- Dosage: 60g/L
+- Grind Level: TIMEMORE C2 at 16
+- Water: Brita filtered water at 100C
+- Filter: Generic paper filter
+- Comment: Bitter, grind coarser and use more coffee
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
