@@ -36,7 +36,7 @@ The drip coffee it makes is very under extracted, and I wouldn't want to drink t
 
 #### AeroPress
 
-Steep for 2 minutes, then gentelly swirl and press.
+Steep for 2 minutes, then gently swirl and press.
 
 - Dosage: 65g/L
 - Grind Level: TIMEMORE C2 at 17
@@ -59,7 +59,7 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 #### AeroPress
 
-Steep for 2 minutes, then gentelly swirl and press.
+Steep for 2 minutes, then gently swirl and press.
 
 - Dosage: 60g/L
 - Grind Level: TIMEMORE C2 at 16
