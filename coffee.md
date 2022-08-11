@@ -61,11 +61,11 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 Steep for 2 minutes, then gently swirl and press.
 
-- Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 16
+- Dosage: 65g/L
+- Grind Level: TIMEMORE C2 at 17
 - Water: Brita filtered water at 100C
 - Filter: Generic paper filter
-- Comment: Bitter, grind coarser and use more coffee
+- Comment: Not bitter, surprisingly not very acidic. Has a mixed berry kinda taste, very pleasant to drink.
 
 ## Misc Info
 
