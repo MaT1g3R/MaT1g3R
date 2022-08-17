@@ -59,7 +59,7 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 ### Peru Nery Rioja
 
-<https://hellodemello.com/shop/peru-nery-rioja/ >
+<https://hellodemello.com/shop/peru-nery-rioja/>
 
 #### AeroPress
 
