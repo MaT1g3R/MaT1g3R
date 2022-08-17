@@ -16,6 +16,10 @@ Consistently makes great filtered coffee. Easy to use and clean.
 
 I mostly follow [this technique](https://www.youtube.com/watch?v=j6VlT_jUVPc)
 
+### Hario Switch
+
+Infusion + percolation brewer. Can also be used as a normal V60.
+
 ### Cafe Du Chateau French Press
 
 Cheap french press off Amazon.
@@ -66,6 +70,16 @@ Steep for 2 minutes, then gently swirl and press.
 - Water: Brita filtered water at 100C
 - Filter: Generic paper filter
 - Comment: Not bitter, surprisingly not very acidic. Has a mixed berry kinda taste, very pleasant to drink.
+
+#### Hario Switch
+
+Steep for 2 minnutes, stir, wait 15s, drawdown
+
+- Dosage: 60g/L
+- Grind Level: TIMEMORE C2 at 17
+- Water: Brita filtered water at 100C
+- Filter: Bagged V60 filter paper
+- Comment:
 
 ## Misc Info
 
