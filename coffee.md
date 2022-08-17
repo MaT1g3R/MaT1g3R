@@ -79,7 +79,7 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 - Grind Level: TIMEMORE C2 at 17
 - Water: Brita filtered water at 100C
 - Filter: Bagged V60 filter paper
-- Comment:
+- Comment: Very smooth cup, not bitter at all. There's some slight acidity, overall very satisfitying. Might be worth trying grinding finer.
 
 ## Misc Info
 
