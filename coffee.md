@@ -76,10 +76,10 @@ Steep for 2 minutes, then gently swirl and press.
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 16
+- Grind Level: TIMEMORE C2 at 15
 - Water: Brita filtered water at 100C
 - Filter: Bagged V60 filter paper
-- Comment: Very smooth cup, not bitter at all. There's some slight acidity, overall very satisfitying. Might be worth trying grinding finer.
+- Comment: Very smooth cup, sweet, and not bitter at all. There's some slight acidity, overall very satisfitying.
 
 ## Misc Info
 
