@@ -55,7 +55,7 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 - Dosage: 65g/L
 - Grind Level: TIMEMORE C2 at 27
 - Water: Brita filtered water at 100C
-- Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a  satisfitying brew.
+- Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a satisfitying brew.
 
 ### Peru Nery Rioja
 
@@ -94,6 +94,20 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 - Water: Brita filtered water at 100C
 - Filter: Bagged V60 filter paper
 - Comment: Fruity, non acidic, smooth finish. Nice.
+
+#### V60
+
+Tetsu Kasuya 4:6
+
+| 4         | 6               |
+| --------- | --------------- |
+| 20% - 20% | 20% - 20% - 20% |
+
+- Dosage: 60g/L
+- Grind Level: TIMEMORE C2 at 15
+- Water: Brita filtered water at 100C
+- Filter: Bagged V60 filter paper
+- Comment: very sweet, slightly bitter. try grinding coarser.
 
 ## Misc Info
 
