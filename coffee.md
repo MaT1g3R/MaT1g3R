@@ -40,21 +40,22 @@ The drip coffee it makes is very under extracted, and I wouldn't want to drink t
 
 #### AeroPress
 
+| Dosage | Grind             | Water                       | Filter          |
+| ------ | ----------------- | --------------------------- | --------------- |
+| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 90C | AeroPress paper |
+
 Steep for 2 minutes, then gently swirl and press.
 
-- Dosage: 65g/L
-- Grind Level: TIMEMORE C2 at 17
-- Water: Brita filtered water at 90C
-- Filter: Generic paper filter
 - Comment: Not very bitter and there's a small hint of acidity coming though. The coffee is skily smooth and very pleasant to drink, but I would not describe it as very rich or full bodied.
 
 #### French Press
 
+| Dosage | Grind             | Water                        | Filter |
+| ------ | ----------------- | ---------------------------- | ------ |
+| 65g/L  | TIMEMORE C2 at 27 | Brita filtered water at 100C | N/A    |
+
 Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
-- Dosage: 65g/L
-- Grind Level: TIMEMORE C2 at 27
-- Water: Brita filtered water at 100C
 - Comment: Not overly bitter, and you can barly feel the acidity. Is very textured, just lacks a little bit of clarity in flavour. Overall a satisfitying brew.
 
 ### Peru Nery Rioja
@@ -63,22 +64,22 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 #### AeroPress
 
+| Dosage | Grind             | Water                        | Filter          |
+| ------ | ----------------- | ---------------------------- | --------------- |
+| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | AeroPress paper |
+
 Steep for 2 minutes, then gently swirl and press.
 
-- Dosage: 65g/L
-- Grind Level: TIMEMORE C2 at 17
-- Water: Brita filtered water at 100C
-- Filter: Generic paper filter
 - Comment: Not bitter, surprisingly not very acidic. Has a mixed berry kinda taste, very pleasant to drink.
 
 #### Hario Switch
 
+| Dosage | Grind             | Water                        | Filter     |
+| ------ | ----------------- | ---------------------------- | ---------- |
+| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
+
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 15
-- Water: Brita filtered water at 100C
-- Filter: Bagged V60 filter paper
 - Comment: Very smooth cup, sweet, and not bitter at all. There's some slight acidity, overall very satisfitying.
 
 ### Sakura
@@ -87,15 +88,19 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 #### Hario Switch
 
+| Dosage | Grind             | Water                        | Filter     |
+| ------ | ----------------- | ---------------------------- | ---------- |
+| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
+
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 15
-- Water: Brita filtered water at 100C
-- Filter: Bagged V60 filter paper
 - Comment: Fruity, non acidic, smooth finish. Nice.
 
 #### V60
+
+| Dosage | Grind             | Water                        | Filter     |
+| ------ | ----------------- | ---------------------------- | ---------- |
+| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
 
 Tetsu Kasuya 4:6
 
@@ -103,10 +108,6 @@ Tetsu Kasuya 4:6
 | --------- | --------------- |
 | 20% - 20% | 20% - 20% - 20% |
 
-- Dosage: 60g/L
-- Grind Level: TIMEMORE C2 at 15
-- Water: Brita filtered water at 100C
-- Filter: Bagged V60 filter paper
 - Comment: very sweet, slightly bitter. try grinding coarser.
 
 ## Misc Info
