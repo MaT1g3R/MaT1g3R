@@ -81,6 +81,20 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 - Filter: Bagged V60 filter paper
 - Comment: Very smooth cup, sweet, and not bitter at all. There's some slight acidity, overall very satisfitying.
 
+### Sakura
+
+<https://hellodemello.com/shop/sakura/>
+
+#### Hario Switch
+
+Steep for 2 minnutes, stir, wait 15s, drawdown
+
+- Dosage: 60g/L
+- Grind Level: TIMEMORE C2 at 15
+- Water: Brita filtered water at 100C
+- Filter: Bagged V60 filter paper
+- Comment: Fruity, non acidic, smooth finish. Nice.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
