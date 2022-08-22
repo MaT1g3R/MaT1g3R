@@ -100,7 +100,7 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind             | Water                        | Filter     |
 | ------ | ----------------- | ---------------------------- | ---------- |
-| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
+| 60g/L  | TIMEMORE C2 at 16 | Brita filtered water at 100C | Bagged V60 |
 
 Tetsu Kasuya 4:6
 
@@ -108,7 +108,7 @@ Tetsu Kasuya 4:6
 | --------- | --------------- |
 | 20% - 20% | 20% - 20% - 20% |
 
-- Comment: very sweet, slightly bitter. try grinding coarser.
+- Comment: Slightly under extracted, try adjusting the recipe 
 
 ## Misc Info
 
