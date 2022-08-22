@@ -108,7 +108,17 @@ Tetsu Kasuya 4:6
 | --------- | --------------- |
 | 20% - 20% | 20% - 20% - 20% |
 
-- Comment: Slightly under extracted, try adjusting the recipe 
+- Comment: Slightly under extracted, try adjusting the recipe.
+
+#### AeroPress
+
+| Dosage | Grind             | Water                        | Filter          |
+| ------ | ----------------- | ---------------------------- | --------------- |
+| 60g/L  | TIMEMORE C2 at 16 | Brita filtered water at 100C | AeroPress paper |
+
+Steep for 2 minutes, then gently swirl and press.
+
+- Comment: Sweet, not acidic, smooth mouth feel, very pleasant.
 
 ## Misc Info
 
