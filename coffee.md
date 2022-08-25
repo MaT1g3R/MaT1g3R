@@ -149,7 +149,7 @@ Steep for 2 minutes, then gently swirl and press.
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Comment:
+- Comment: Sweet, very slightly acidic, smooth. Maybe try grinding coarser.
 
 ## Misc Info
 
