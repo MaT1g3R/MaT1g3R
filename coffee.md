@@ -38,6 +38,10 @@ The drip coffee it makes is very under extracted, and I wouldn't want to drink t
 
 <https://hellodemello.com/shop/dancing-goats/>
 
+| Country | Region                | Producer            |
+| ------- | --------------------- | ------------------- |
+| Brazil  | Machado, Minas Gerais | Sitio Alto Da Serra |
+
 #### AeroPress
 
 | Dosage | Grind             | Water                       | Filter          |
@@ -62,6 +66,10 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 <https://hellodemello.com/shop/peru-nery-rioja/>
 
+| Country | Region              | Producer     |
+| ------- | ------------------- | ------------ |
+| Peru    | San Jose de Lourdes | Andres Burga |
+
 #### AeroPress
 
 | Dosage | Grind             | Water                        | Filter          |
@@ -85,6 +93,11 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 ### Sakura
 
 <https://hellodemello.com/shop/sakura/>
+
+| Country  | Region   | Producer |
+| -------- | -------- | -------- |
+| Ethiopia | Aricha   | ?        |
+| Colombia | Gaitania | ?        |
 
 #### Hario Switch
 
@@ -119,6 +132,24 @@ Tetsu Kasuya 4:6
 Steep for 2 minutes, then gently swirl and press.
 
 - Comment: Sweet, not acidic, smooth mouth feel, very pleasant.
+
+### Chelbesa
+
+<https://shop.squaremilecoffee.com/products/chelbesa>
+
+| Country  | Region | Producer |
+| -------- | ------ | -------- |
+| Ethiopia | Gedeb  | Various  |
+
+#### Hario Switch
+
+| Dosage | Grind             | Water                        | Filter     |
+| ------ | ----------------- | ---------------------------- | ---------- |
+| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
+
+Steep for 2 minnutes, stir, wait 15s, drawdown
+
+- Comment:
 
 ## Misc Info
 
