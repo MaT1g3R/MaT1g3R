@@ -155,3 +155,5 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
 - [The Coffee Compass](https://www.baristahustle.com/app-archive-main/the-coffee-compass/)
+- [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/)
+- [World coffee guide](https://notbadcoffee.com/world-coffee-guide/)
