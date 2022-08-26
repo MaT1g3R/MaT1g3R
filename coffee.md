@@ -151,6 +151,16 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Sweet, very slightly acidic, smooth. Maybe try grinding coarser.
 
+#### AeroPress
+
+| Dosage | Grind             | Water                        | Filter          |
+| ------ | ----------------- | ---------------------------- | --------------- |
+| 65g/L  | TIMEMORE C2 at 16 | Brita filtered water at 100C | AeroPress paper |
+
+Steep for 2 minutes, then gently swirl and press.
+
+- Comment: Sweet, tart, smooth. Very nice.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
