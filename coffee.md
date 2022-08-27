@@ -107,7 +107,7 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Comment: Fruity, non acidic, smooth finish. Nice.
+- Comment: Fruity, slightly acidic, sweet, smooth finish. Nice.
 
 #### V60
 
