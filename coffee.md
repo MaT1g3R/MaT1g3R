@@ -113,7 +113,7 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind             | Water                        | Filter     |
 | ------ | ----------------- | ---------------------------- | ---------- |
-| 60g/L  | TIMEMORE C2 at 16 | Brita filtered water at 100C | Bagged V60 |
+| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | Bagged V60 |
 
 Tetsu Kasuya 4:6
 
@@ -121,7 +121,7 @@ Tetsu Kasuya 4:6
 | --------- | --------------- |
 | 20% - 20% | 20% - 20% - 20% |
 
-- Comment: Slightly under extracted, try adjusting the recipe.
+- Comment: Sweet, balanced, acidic undertone.
 
 #### AeroPress
 
