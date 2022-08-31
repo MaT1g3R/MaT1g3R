@@ -145,11 +145,11 @@ Steep for 2 minutes, then gently swirl and press.
 
 | Dosage | Grind             | Water                        | Filter     |
 | ------ | ----------------- | ---------------------------- | ---------- |
-| 60g/L  | TIMEMORE C2 at 15 | Brita filtered water at 100C | Bagged V60 |
+| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | Bagged V60 |
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Comment: Sweet, very slightly acidic, smooth. Maybe try grinding coarser.
+- Comment: Sweet, very slightly acidic, smooth.
 
 #### AeroPress
 
