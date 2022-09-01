@@ -161,6 +161,20 @@ Steep for 2 minutes, then gently swirl and press.
 
 - Comment: Sweet, tart, smooth. Very nice.
 
+#### V60
+
+| Dosage | Grind             | Water                        | Filter     |
+| ------ | ----------------- | ---------------------------- | ---------- |
+| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | Bagged V60 |
+
+Tetsu Kasuya 4:6
+
+| 4         | 6               |
+| --------- | --------------- |
+| 20% - 20% | 20% - 20% - 20% |
+
+- Comment: Sweet, slightly acidic finish, not bitter, light in body.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
