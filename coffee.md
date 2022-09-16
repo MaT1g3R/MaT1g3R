@@ -106,13 +106,13 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 #### Hario Switch
 
-| Dosage | Grind              | Water                        | Filter     |
-| ------ | ------------------ | ---------------------------- | ---------- |
-| 65g/L  | Ode + Gen 2 at 3.2 | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind            | Water                        | Filter     |
+| ------ | ---------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode + Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Comment: Try extracting more + use less coffee
+- Comment: Sweet, orange, smooth finish. Maybe try grinding coarser.
 
 #### V60
 
