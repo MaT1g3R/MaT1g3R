@@ -4,6 +4,11 @@ Page detailing my various coffee setups.
 
 ## Equipment
 
+### Fellow Ode + Gen 2 burrs
+
+Grinds really fast, needs a spray of water on the beans to reduce static mess.
+Gen 2 burrs grinds much finer than the original.
+
 ### TIMEMORE C2 Portable Manual Coffee Grinder
 
 Seems to do a fine job, haven't tested for espresso as I don't own an espresso machine.
@@ -101,13 +106,13 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 #### Hario Switch
 
-| Dosage | Grind             | Water                        | Filter     |
-| ------ | ----------------- | ---------------------------- | ---------- |
-| 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind              | Water                        | Filter     |
+| ------ | ------------------ | ---------------------------- | ---------- |
+| 65g/L  | Ode + Gen 2 at 3.2 | Brita filtered water at 100C | Bagged V60 |
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
-- Comment: Fruity, slightly acidic, sweet, smooth finish. Nice.
+- Comment: Try extracting more + use less coffee
 
 #### V60
 
