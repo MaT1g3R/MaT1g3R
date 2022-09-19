@@ -114,13 +114,37 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Sweet, orange, smooth finish. Maybe try grinding coarser.
 
-#### V60
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+<https://www.youtube.com/watch?v=AI4ynXzkSQo>
+
+| Time | Duration | Step                                            |
+| ---- | -------- | ----------------------------------------------- |
+|      |          | Put coffee in v60, with hole in the middle      |
+|      |          | Start timer                                     |
+| 0:00 | 45s      |                                                 |
+|      |          | add 2x coffee weight in water                   |
+|      |          | swril until mixed                               |
+| 0:45 | 30s      |                                                 |
+|      |          | add water, aiming for 60% of total brew weight  |
+| 1:15 | 30s      |                                                 |
+|      |          | add water, aiming for 100% of total brew weight |
+| 1:45 |          |                                                 |
+|      |          | stir 1x clockwise 1x counter clockwise          |
+|      |          | allow v60 to drain a little                     |
+|      |          | swril                                           |
+
+- Comment: Floral, somewhat fruity, sweet. Very clear cup.
+
+#### V60 - Tetsu Kasuya 4:6
 
 | Dosage | Grind             | Water                        | Filter     |
 | ------ | ----------------- | ---------------------------- | ---------- |
 | 65g/L  | TIMEMORE C2 at 17 | Brita filtered water at 100C | Bagged V60 |
-
-Tetsu Kasuya 4:6
 
 | 4         | 6               |
 | --------- | --------------- |
