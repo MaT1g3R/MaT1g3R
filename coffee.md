@@ -75,6 +75,16 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 | ------- | ------------------- | ------------ |
 | Peru    | San Jose de Lourdes | Andres Burga |
 
+#### V60 - James Hoffmann
+
+| Dosage | Grind            | Water                        | Filter     |
+| ------ | ---------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 2.3 | Brita filtered water at 100C | Bagged V60 |
+
+<https://www.youtube.com/watch?v=AI4ynXzkSQo>
+
+- Comment: Sweet, not acidic, clean finish.
+
 #### AeroPress
 
 | Dosage | Grind             | Water                        | Filter          |
