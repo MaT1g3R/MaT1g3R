@@ -83,7 +83,7 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 <https://www.youtube.com/watch?v=AI4ynXzkSQo>
 
-- Comment: Sweet, not acidic, clean finish.
+- Comment: Sweet, very slightly acidic, clean finish.
 
 #### AeroPress
 
