@@ -83,6 +83,22 @@ Steep for 4 minutes, break and remove crust, steep for 5 minutes
 
 <https://www.youtube.com/watch?v=AI4ynXzkSQo>
 
+| Time | Duration | Step                                            |
+| ---- | -------- | ----------------------------------------------- |
+|      |          | Put coffee in v60, with hole in the middle      |
+|      |          | Start timer                                     |
+| 0:00 | 45s      |                                                 |
+|      |          | add 2x coffee weight in water                   |
+|      |          | swril until mixed                               |
+| 0:45 | 30s      |                                                 |
+|      |          | add water, aiming for 60% of total brew weight  |
+| 1:15 | 30s      |                                                 |
+|      |          | add water, aiming for 100% of total brew weight |
+| 1:45 |          |                                                 |
+|      |          | stir 1x clockwise 1x counter clockwise          |
+|      |          | allow v60 to drain a little                     |
+|      |          | swril                                           |
+
 - Comment: Sweet, very slightly acidic, clean finish.
 
 #### AeroPress
@@ -131,22 +147,6 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 | 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 <https://www.youtube.com/watch?v=AI4ynXzkSQo>
-
-| Time | Duration | Step                                            |
-| ---- | -------- | ----------------------------------------------- |
-|      |          | Put coffee in v60, with hole in the middle      |
-|      |          | Start timer                                     |
-| 0:00 | 45s      |                                                 |
-|      |          | add 2x coffee weight in water                   |
-|      |          | swril until mixed                               |
-| 0:45 | 30s      |                                                 |
-|      |          | add water, aiming for 60% of total brew weight  |
-| 1:15 | 30s      |                                                 |
-|      |          | add water, aiming for 100% of total brew weight |
-| 1:45 |          |                                                 |
-|      |          | stir 1x clockwise 1x counter clockwise          |
-|      |          | allow v60 to drain a little                     |
-|      |          | swril                                           |
 
 - Comment: Floral, somewhat fruity, sweet. Very clear cup.
 
@@ -213,6 +213,23 @@ Tetsu Kasuya 4:6
 | 20% - 20% | 20% - 20% - 20% |
 
 - Comment: Sweet, slightly acidic finish, not bitter, light in body.
+
+### Lollipop
+
+<https://hellodemello.com/shop/lollipop/>
+
+| Country   | Region  | Producer         |
+| --------- | ------- | ---------------- |
+| Guatemala | Antigua | La Flor del Cafe |
+| Kenya     | Nyeri   | Thiriku          |
+
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:12.5 | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Cola? Acidic, light in body, clean finish.
 
 ## Misc Info
 
