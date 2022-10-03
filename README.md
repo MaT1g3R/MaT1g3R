@@ -25,7 +25,8 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 
 <!--START_SECTION:waka-->
 ```text
-Other   9 hrs 25 mins   ███████████████████████░░   91.55 % 
-Go      52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other      9 hrs 25 mins   ██████████████████████▓░░   90.22 % 
+Go         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
