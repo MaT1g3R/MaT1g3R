@@ -231,6 +231,16 @@ Tetsu Kasuya 4:6
 
 - Comment: Cola? Acidic, light in body, clean finish.
 
+#### AeroPress "Espresso"
+
+<https://www.youtube.com/watch?v=ZgIVfU0xBjA>
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:5 | Ode Gen 2 at 1 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Only used 5g of coffee, can't really tell.
+
 ### Guatemala 'The Coffee Flower'
 
 <https://hellodemello.com/shop/guatemala-the-coffee-flower/>
