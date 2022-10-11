@@ -231,6 +231,22 @@ Tetsu Kasuya 4:6
 
 - Comment: Cola? Acidic, light in body, clean finish.
 
+### Guatemala 'The Coffee Flower'
+
+<https://hellodemello.com/shop/guatemala-the-coffee-flower/>
+
+| Country   | Region                                 | Producer              |
+| --------- | -------------------------------------- | --------------------- |
+| Guatemala | Agua Dulce, Cuilco, West Huehuetenango | Osbaldo Pérez Ramirez |
+
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                       | Filter     |
+| ------ | -------------- | --------------------------- | ---------- |
+| 1:12   | Ode Gen 2 at 3 | Brita filtered water at 95C | Bagged V60 |
+
+- Comment: Smells very floral. Apple, light in body, clean finish.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
