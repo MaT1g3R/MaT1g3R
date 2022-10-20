@@ -237,7 +237,7 @@ Tetsu Kasuya 4:6
 
 | Dosage | Grind          | Water                        | Filter     |
 | ------ | -------------- | ---------------------------- | ---------- |
-| 1:5 | Ode Gen 2 at 1 | Brita filtered water at 100C | Bagged V60 |
+| 1:5    | Ode Gen 2 at 1 | Brita filtered water at 100C | Bagged V60 |
 
 - Comment: Only used 5g of coffee, can't really tell.
 
@@ -256,6 +256,20 @@ Tetsu Kasuya 4:6
 | 1:12   | Ode Gen 2 at 3 | Brita filtered water at 95C | Bagged V60 |
 
 - Comment: Smells very floral. Apple, light in body, clean finish.
+
+### Costa Rica, La Pastora, Tarrazú
+
+| Country    | Region              | Producer     |
+| ---------- | ------------------- | ------------ |
+| Costa Rica | Los Santos, Tarrazú | CoopeTarrazú |
+
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:15   | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Sweet, Pineapple, Lingering finish
 
 ## Misc Info
 
