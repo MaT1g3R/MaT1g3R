@@ -271,6 +271,22 @@ Tetsu Kasuya 4:6
 
 - Comment: Sweet, Pineapple, Lingering finish
 
+### Peek-a-brew
+
+| Country  | Region              | Producer     |
+| -------- | ------------------- | ------------ |
+| Peru     | San Jose de Lourdes | Andres Burga |
+| Ethiopia | Aricha              |              |
+| Honduras | Marcala, La Paz     | San Jacinto  |
+
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                       | Filter     |
+| ------ | -------------- | --------------------------- | ---------- |
+| 1:12.5 | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Sweet, not very acidic, smooth, lingering finish
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
