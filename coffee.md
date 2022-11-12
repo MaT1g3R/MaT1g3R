@@ -281,11 +281,27 @@ Tetsu Kasuya 4:6
 
 #### V60 - James Hoffmann
 
-| Dosage | Grind          | Water                       | Filter     |
-| ------ | -------------- | --------------------------- | ---------- |
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
 | 1:12.5 | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 - Comment: Sweet, not very acidic, smooth, lingering finish
+
+### Kenya Thiriku AA
+
+<https://hellodemello.com/shop/kenya-thiriku-aa/>
+
+| Country | Region      | Producer            |
+| ------- | ----------- | ------------------- |
+| Kenya   | Tetu, Nyeri | Thiriku Cooperative |
+
+#### V60 - James Hoffmann
+
+| Dosage | Grind          | Water                       | Filter     |
+| ------ | -------------- | --------------------------- | ---------- |
+| 1:11   | Ode Gen 2 at 3 | Brita filtered water at 95C | Bagged V60 |
+
+- Comment: Under extracted, try 100C water
 
 ## Misc Info
 
