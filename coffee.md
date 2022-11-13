@@ -299,9 +299,9 @@ Tetsu Kasuya 4:6
 
 | Dosage | Grind          | Water                       | Filter     |
 | ------ | -------------- | --------------------------- | ---------- |
-| 1:11   | Ode Gen 2 at 3 | Brita filtered water at 95C | Bagged V60 |
+| 1:11   | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
-- Comment: Under extracted, try 100C water
+- Comment: Yuzu, rich body.
 
 ## Misc Info
 
