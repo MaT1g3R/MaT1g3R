@@ -297,11 +297,27 @@ Tetsu Kasuya 4:6
 
 #### V60 - James Hoffmann
 
-| Dosage | Grind          | Water                       | Filter     |
-| ------ | -------------- | --------------------------- | ---------- |
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
 | 1:11   | Ode Gen 2 at 2.3 | Brita filtered water at 95C | Bagged V60 |
 
 - Comment: Yuzu, rich body.
+
+### Ethiopia Yirgacheffe
+
+<https://www.mofercoffee.com/products/ethiopian-yirgacheffe-coffee?variant=34430660556>
+
+| Country  | Region      | Producer    |
+| -------- | ----------- | ----------- |
+| Ethiopia | Yirgacheffe | Yirgacheffe |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Overextracted
 
 ## Misc Info
 
