@@ -315,9 +315,9 @@ Tetsu Kasuya 4:6
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 60g/L  | Ode Gen 2 at 3.1 | Brita filtered water at 90C | Bagged V60 |
+| 60g/L  | Ode Gen 2 at 3.2 | Brita filtered water at 85C | Bagged V60 |
 
-- Comment: Overextracted
+- Comment: Smells and tastes like barley tea, no acidity, slightly bitter, full body.
 
 ## Misc Info
 
