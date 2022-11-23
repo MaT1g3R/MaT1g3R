@@ -313,9 +313,9 @@ Tetsu Kasuya 4:6
 
 #### V60 - 5 pours
 
-| Dosage | Grind          | Water                        | Filter     |
-| ------ | -------------- | ---------------------------- | ---------- |
-| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 3.1 | Brita filtered water at 90C | Bagged V60 |
 
 - Comment: Overextracted
 
