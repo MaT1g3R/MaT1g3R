@@ -319,6 +319,16 @@ Tetsu Kasuya 4:6
 
 - Comment: Smells and tastes like barley tea, no acidity, slightly bitter, full body.
 
+#### Hario Switch
+
+| Dosage | Grind          | Water                       | Filter     |
+| ------ | -------------- | --------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 4 | Brita filtered water at 90C | Bagged V60 |
+
+Steep for 2 minnutes, stir, wait 15s, drawdown
+
+- Comment: Sutble sweetness, no acidity, smooth.
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
