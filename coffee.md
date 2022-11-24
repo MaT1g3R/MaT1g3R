@@ -323,7 +323,7 @@ Tetsu Kasuya 4:6
 
 | Dosage | Grind          | Water                       | Filter     |
 | ------ | -------------- | --------------------------- | ---------- |
-| 60g/L  | Ode Gen 2 at 4 | Brita filtered water at 90C | Bagged V60 |
+| 70g/L  | Ode Gen 2 at 5 | Brita filtered water at 100C | Bagged V60 |
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
