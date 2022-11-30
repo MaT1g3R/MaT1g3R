@@ -321,13 +321,29 @@ Tetsu Kasuya 4:6
 
 #### Hario Switch
 
-| Dosage | Grind          | Water                       | Filter     |
-| ------ | -------------- | --------------------------- | ---------- |
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
 | 70g/L  | Ode Gen 2 at 5 | Brita filtered water at 100C | Bagged V60 |
 
 Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Sutble sweetness, no acidity, smooth.
+
+### Ethiopia Idido
+
+<https://hellodemello.com/shop/ethiopia-idido/>
+
+| Country  | Region                     | Producer              |
+| -------- | -------------------------- | --------------------- |
+| Ethiopia | Geodeo, Yirgacheffe Woreda | Idido Private Station |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Floral, mild acidity, sweet.
 
 ## Misc Info
 
