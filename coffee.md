@@ -343,7 +343,7 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 | ------ | -------------- | ---------------------------- | ---------- |
 | 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
-- Comment: Floral, mild acidity, sweet.
+- Comment: Floral, mild acidity, sweet, smooth.
 
 ## Misc Info
 
