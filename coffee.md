@@ -345,6 +345,24 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Floral, mild acidity, sweet, smooth.
 
+### La Campanella
+
+<https://hellodemello.com/shop/la-campanella/>
+
+| Country    | Region                        | Producer                     |
+| ---------- | ----------------------------- | ---------------------------- |
+| Honduras   | El Agucatal, San Jose, La Paz | Reina Nicolas Ventura        |
+| Ethiopia   | Banko Chelchele               | Dula Mazoria washing station |
+| Costa Rica | La Angostura, Tarrazu         | Arleen & Maria Jimenez       |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water                       | Filter     |
+| ------ | -------------- | --------------------------- | ---------- |
+| 1:12.5 | Ode Gen 2 at 3 | Brita filtered water at 96C | Bagged V60 |
+
+- Comment: Apple tasting, sweet, a bit acidic, full bodied
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
