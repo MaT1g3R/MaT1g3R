@@ -363,6 +363,18 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Apple tasting, sweet, a bit acidic, full bodied
 
+### Chelbesa, Yirgacheffe
+
+| Country  | Region | Producer |
+| -------- | ------ | -------- |
+| Ethiopia | Gedeb  | Chelbesa |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
