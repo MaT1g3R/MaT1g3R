@@ -371,9 +371,11 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 #### V60 - 5 pours
 
-| Dosage | Grind          | Water                        | Filter     |
-| ------ | -------------- | ---------------------------- | ---------- |
-| 60g/L  | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind            | Water                        | Filter     |
+| ------ | ---------------- | ---------------------------- | ---------- |
+| 60g/L  | Ode Gen 2 at 2.1 | Brita filtered water at 100C | Bagged V60 |
+
+- Comment: Peach, slightly acidic, sweet
 
 ## Misc Info
 
