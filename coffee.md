@@ -377,6 +377,20 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Peach, slightly acidic, sweet
 
+### Ethiopia Banko Chelchele
+
+| Country    | Region      | Producer      |
+| ---------- | ----------- | ------------- |
+| Ethiopia   | Yirgacheffe | Dula Mazoria  |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:13   | Ode Gen 2 at 3   | Brita filtered water at 96C | Bagged V60 |
+
+- Comment:
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
