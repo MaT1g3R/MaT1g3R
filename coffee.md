@@ -387,7 +387,24 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 1:13   | Ode Gen 2 at 3   | Brita filtered water at 96C | Bagged V60 |
+| 1:13   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
+
+- Comment:
+
+### Colombia Inmaculada
+
+<https://hellodemello.com/shop/colombia-inmaculada/>
+
+
+| Country    | Region      | Producer      |
+| ---------- | ----------- | ------------- |
+| Colombia   | Pichindé, Cali, Valle del Cauca | Holguin Ramos |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 97C | Bagged V60 |
 
 - Comment:
 
