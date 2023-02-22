@@ -404,7 +404,21 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 97C | Bagged V60 |
+| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
+
+- Comment:
+
+### Colombia San Agustin
+
+| Country    | Region      | Producer      |
+| ---------- | ----------- | ------------- |
+| Colombia   | San Agustin, Huila | |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
 
 - Comment:
 
