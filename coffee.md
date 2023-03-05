@@ -422,6 +422,18 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment:
 
+### Honduras El Olivo
+
+| Country    | Region      | Producer      |
+| ---------- | ----------- | ------------- |
+| Honduras | Opatoro, La Paz | Isaura Martinez |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:14   | Ode Gen 2 at 1.2   | Brita filtered water at 100C | Bagged V60 |
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
