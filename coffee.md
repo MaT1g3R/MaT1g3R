@@ -432,7 +432,20 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 1:14   | Ode Gen 2 at 1.2   | Brita filtered water at 100C | Bagged V60 |
+| 1:14   | Ode Gen 2 at 2.2   | Brita filtered water at 95C | Bagged V60 |
+
+### Butterfly Kiss
+
+| Country    | Region      | Producer      |
+| ---------- | ----------- | ------------- |
+| Ethiopia | Geodeo, Yirgacheffe Woreda | Idido Private Station |
+| Colombia   | Pichindé, Cali, Valle del Cauca | Holguin Ramos |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:17   | Ode Gen 2 at 1.2   | Brita filtered water at 100C | Bagged V60 |
 
 ## Misc Info
 
