@@ -377,17 +377,25 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Comment: Peach, slightly acidic, sweet
 
-### Ethiopia Banko Chelchele
-
-| Country    | Region      | Producer      |
-| ---------- | ----------- | ------------- |
-| Ethiopia   | Yirgacheffe | Dula Mazoria  |
-
-#### V60 - 5 pours
+#### Hario Switch - 2 pours
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 1:13   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
+| 1:16   | Ode Gen 2 at 2.1 | Brita filtered water at 93C | Bagged V60 |
+
+- Comment: Smooth, muted acidity, mild fruit notes. Grind corser.
+
+### Ethiopia Banko Chelchele
+
+| Country  | Region      | Producer     |
+| -------- | ----------- | ------------ |
+| Ethiopia | Yirgacheffe | Dula Mazoria |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:13   | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 - Comment:
 
@@ -395,59 +403,58 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 <https://hellodemello.com/shop/colombia-inmaculada/>
 
-
-| Country    | Region      | Producer      |
-| ---------- | ----------- | ------------- |
-| Colombia   | Pichindé, Cali, Valle del Cauca | Holguin Ramos |
+| Country  | Region                          | Producer      |
+| -------- | ------------------------------- | ------------- |
+| Colombia | Pichindé, Cali, Valle del Cauca | Holguin Ramos |
 
 #### V60 - 5 pours
 
-| Dosage | Grind            | Water                       | Filter     |
-| ------ | ---------------- | --------------------------- | ---------- |
-| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:15   | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 - Comment:
 
 ### Colombia San Agustin
 
-| Country    | Region      | Producer      |
-| ---------- | ----------- | ------------- |
-| Colombia   | San Agustin, Huila | |
+| Country  | Region             | Producer |
+| -------- | ------------------ | -------- |
+| Colombia | San Agustin, Huila |          |
 
 #### V60 - 5 pours
 
-| Dosage | Grind            | Water                       | Filter     |
-| ------ | ---------------- | --------------------------- | ---------- |
-| 1:15   | Ode Gen 2 at 3   | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind          | Water                        | Filter     |
+| ------ | -------------- | ---------------------------- | ---------- |
+| 1:15   | Ode Gen 2 at 3 | Brita filtered water at 100C | Bagged V60 |
 
 - Comment:
 
 ### Honduras El Olivo
 
-| Country    | Region      | Producer      |
-| ---------- | ----------- | ------------- |
+| Country  | Region          | Producer        |
+| -------- | --------------- | --------------- |
 | Honduras | Opatoro, La Paz | Isaura Martinez |
 
 #### V60 - 5 pours
 
 | Dosage | Grind            | Water                       | Filter     |
 | ------ | ---------------- | --------------------------- | ---------- |
-| 1:14   | Ode Gen 2 at 2.2   | Brita filtered water at 95C | Bagged V60 |
+| 1:14   | Ode Gen 2 at 2.2 | Brita filtered water at 95C | Bagged V60 |
 
 ### Butterfly Kiss
 
 <https://hellodemello.com/shop/butterfly-kiss/>
 
-| Country    | Region      | Producer      |
-| ---------- | ----------- | ------------- |
-| Ethiopia | Geodeo, Yirgacheffe Woreda | Idido Private Station |
-| Colombia   | Pichindé, Cali, Valle del Cauca | Holguin Ramos |
+| Country  | Region                          | Producer              |
+| -------- | ------------------------------- | --------------------- |
+| Ethiopia | Geodeo, Yirgacheffe Woreda      | Idido Private Station |
+| Colombia | Pichindé, Cali, Valle del Cauca | Holguin Ramos         |
 
 #### V60 - 5 pours
 
-| Dosage | Grind            | Water                       | Filter     |
-| ------ | ---------------- | --------------------------- | ---------- |
-| 1:17   | Ode Gen 2 at 1.2   | Brita filtered water at 100C | Bagged V60 |
+| Dosage | Grind            | Water                        | Filter     |
+| ------ | ---------------- | ---------------------------- | ---------- |
+| 1:17   | Ode Gen 2 at 1.2 | Brita filtered water at 100C | Bagged V60 |
 
 ## Misc Info
 
