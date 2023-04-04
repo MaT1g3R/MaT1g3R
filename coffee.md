@@ -456,6 +456,22 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 | ------ | ---------------- | ---------------------------- | ---------- |
 | 1:17   | Ode Gen 2 at 1.2 | Brita filtered water at 100C | Bagged V60 |
 
+### Costa Rica El Fabio
+
+<https://hellodemello.com/shop/costa-rica-el-fabio/>
+
+| Country  | Region                          | Producer              |
+| -------- | ------------------------------- | --------------------- |
+| Costa Rica | Frailes | Ruth Venegas Leiva |
+
+#### V60 - 5 pours
+
+| Dosage | Grind            | Water                        | Filter     |
+| ------ | ---------------- | ---------------------------- | ---------- |
+| 1:14.5   | Ode Gen 2 at 2.1 | Brita filtered water at 96C | Bagged V60 |
+
+- Comment: Floral, slight olive, muted acidity, smooth
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
