@@ -460,17 +460,45 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 <https://hellodemello.com/shop/costa-rica-el-fabio/>
 
-| Country  | Region                          | Producer              |
-| -------- | ------------------------------- | --------------------- |
+| Country    | Region  | Producer           |
+| ---------- | ------- | ------------------ |
 | Costa Rica | Frailes | Ruth Venegas Leiva |
 
 #### V60 - 5 pours
 
-| Dosage | Grind            | Water                        | Filter     |
-| ------ | ---------------- | ---------------------------- | ---------- |
-| 1:14.5   | Ode Gen 2 at 2.1 | Brita filtered water at 96C | Bagged V60 |
+| Dosage | Grind            | Water                       | Filter     |
+| ------ | ---------------- | --------------------------- | ---------- |
+| 1:14.5 | Ode Gen 2 at 2.1 | Brita filtered water at 96C | Bagged V60 |
 
 - Comment: Floral, slight olive, muted acidity, smooth
+
+### Yandaro
+
+| Country | Region  | Producer |
+| ------- | ------- | -------- |
+| Brundi  | Kayanza | Greenco  |
+
+#### Cupping
+
+- Smell: Orange peel, weak
+- Flavour: orange, blue berry
+- Acidity: strong acidity
+- Mouthfeel: balanced
+
+### Costa Rica La Pacaya
+
+<https://hellodemello.com/shop/innovation-coffee-costa-rica-la-pacaya/>
+
+| Country    | Region  | Producer        |
+| ---------- | ------- | --------------- |
+| Costa Rica | Tarrazu | Franciny Vargas |
+
+#### Cupping
+
+- Smell: Honey, Cinnamon, Strong
+- Flavour: Citrus, Honey, Wine
+- Acidity: Mild acidity
+- Mouthfeel: Full body
 
 ## Misc Info
 
