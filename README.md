@@ -24,10 +24,13 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaT1g3R&count_private=true&theme=tokyonight&layout=compact&langs_count=7)
 
 <!--START_SECTION:waka-->
+
 ```text
-Other      7 hrs 15 mins   ███████████████████▓░░░░░   79.13 % 
-Clojure    1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Go         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Go          3 hrs 46 mins   ████████████████▒░░░░░░░░   64.70 %
+Python      1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+Text        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Terraform   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+textmate    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
+
 <!--END_SECTION:waka-->
