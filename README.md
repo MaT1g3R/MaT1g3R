@@ -26,11 +26,11 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```text
-Go             2 hrs 44 mins   █████████████████████████   99.77 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Makefile       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go             4 hrs 12 mins   █████████████████████████   99.62 %
+INI            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
