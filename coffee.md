@@ -506,6 +506,20 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 | ------ | ---------------- | --------------------------- | ---------- |
 | 1:15   | Ode Gen 2 at 2.1 | Brita filtered water at 95C | Bagged V60 |
 
+### Costa Rica Los Naranjos
+
+| Country    | Region     | Producer              |
+| ---------- | ---------- | --------------------- |
+| Costa Rica | Bustamante | Jacqui & Flor Bonilla |
+
+#### V60 - 5 Pours
+
+| Dosage | Grind            | Water              | Filter     |
+| ------ | ---------------- | ------------------ | ---------- |
+| 1:17   | Ode Gen 2 at 2.1 | Zero water at 100C | Bagged V60 |
+
+- Smooth, mild acidity, could grind finer
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
