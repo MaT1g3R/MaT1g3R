@@ -516,9 +516,9 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 | Dosage | Grind            | Water              | Filter     |
 | ------ | ---------------- | ------------------ | ---------- |
-| 1:17   | Ode Gen 2 at 2.1 | Zero water at 100C | Bagged V60 |
+| 1:17   | Ode Gen 2 at 1.2 | Zero water at 100C | Bagged V60 |
 
-- Smooth, mild acidity, could grind finer
+- Smooth, mild acidity, could use slightly more coffee
 
 ## Misc Info
 
