@@ -13,7 +13,7 @@ My personal website is at: [https://peijun.dev](https://peijun.dev)
 ## Hobbies
 
 Beside programming, I also like watching anime, reading manga/LNs in my free time.
-I have an [Anilist](https://anilist.co/user/MaT1g3R/) profile if you are also into that sort of things.
+I have an [Anilist](https://anilist.co/user/vmService/) profile if you are also into that sort of things.
 
 I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./coffee.md).
 
