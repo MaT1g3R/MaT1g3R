@@ -25,12 +25,12 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 
 <!--START_SECTION:waka-->
 
-```text
-Go               3 hrs 31 mins   █████████████████▓░░░░░░░   70.99 %
-Ezhil            34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-ERB              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-SQL              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON-lines       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+```txt
+Go             6 hrs 17 mins   ████████████████████▒░░░░   81.78 %
+Bash           34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Shell Script   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+INI            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Puppet         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
