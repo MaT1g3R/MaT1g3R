@@ -26,7 +26,11 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform        15 mins         ██████████████░░░░░░░░░░░   55.75 %
+Go               10 mins         █████████▓░░░░░░░░░░░░░░░   38.57 %
+INI              1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
