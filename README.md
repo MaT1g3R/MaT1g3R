@@ -26,11 +26,11 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```txt
-Puppet         32 mins         █████████████████▒░░░░░░░   69.53 %
-ERB            13 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-Ruby           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Text           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Puppet         31 mins         ████████████████████████▒   96.83 %
+ERB            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Text           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dictionary     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
