@@ -26,10 +26,10 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```txt
-Go               12 mins         ███████████████▒░░░░░░░░░   61.80 %
-Terraform        6 mins          ████████▓░░░░░░░░░░░░░░░░   34.11 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Go               12 mins         ██████████████████████▓░░   91.30 %
+Markdown         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Terraform        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
