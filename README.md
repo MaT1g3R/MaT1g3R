@@ -26,7 +26,9 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 17 mins    ████████████████████████▓   98.49 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
