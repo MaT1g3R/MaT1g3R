@@ -26,7 +26,10 @@ I also like drinking coffee (surprised pikachu), more on that in [coffee.md](./c
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Puppet         20 mins         █████████████████████▓░░░   87.30 %
+Shell Script   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+ERB            0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
