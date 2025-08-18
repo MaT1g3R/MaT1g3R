@@ -520,6 +520,27 @@ Steep for 2 minnutes, stir, wait 15s, drawdown
 
 - Smooth, mild acidity, could use slightly more coffee
 
+### Dimtu Tero – Ethiopia
+
+<https://pilotcoffeeroasters.com/products/dimtu-tero-ethiopia>
+
+| Country  | Region                      | Producer                         |
+| -------- | --------------------------- | -------------------------------- |
+| Ethiopia | Shakiso District, Guji Zone | Getachew Zeleke, Dimtu Tero Farm |
+
+#### V60 - 5 pours
+
+| Dosage | Grind          | Water             | Filter    |
+| ------ | -------------- | ----------------- | --------- |
+| 60g/L  | Ode Gen 2 at 2 | Zero water at 95C | Boxed V60 |
+
+Comment: Very light and clean. Dark fruit tasting, mild sweetness.
+
+- Acidity: ★★★☆☆
+- Sweetness: ★★★☆☆
+- Bitterness: ★☆☆☆☆
+- Body: ★☆☆☆☆
+
 ## Misc Info
 
 - [Toronto Tap Water Quality & System Reports](https://www.toronto.ca/services-payments/water-environment/tap-water-in-toronto/tap-water-quality-system-reports/)
